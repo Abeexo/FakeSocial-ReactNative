@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"names":[],"sources":["C:/Users/Simone/Desktop/Contactgram/exercise/src/models/Data.ts"],"sourcesContent":["export interface Data {\n  id: number;\n  firstName: string;\n  lastName: string;\n  phone: string;\n  picture: string;\n  email: string;\n}\n\n"],"mappings":""},"metadata":{},"sourceType":"script","externalDependencies":[]}
